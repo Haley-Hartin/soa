@@ -6,4 +6,9 @@ SOA is a SPICE-based analysis and visualization tool for planning spacecraft-bas
 
 
 ### The project
-The purpose of this project was to find bottlenecks in SOA that called on SPICE, and parralelize them using using Java workers. 
+The purpose of this project was to find bottlenecks in SOA that called on SPICE, and parralelize them using using Java workers. This consisted of three main parts: identifying the bottlenecks, implememting the workers, benchmark testing
+
+#### Identifying the bottlenecks
+#### Implementing the workers
+#### Benchmark testing
+
